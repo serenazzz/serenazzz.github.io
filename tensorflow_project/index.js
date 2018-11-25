@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Tom younger brother (or rather half-brother) Sid was already through with his part of the work (picking up chips), for he was a quiet boy, and had no adventurous, trouble-some ways.',
+      'Tom younger brother (or rather half-brother) Sid was already through with his part of the work (picking up chips).',
   'example2':
       'One may almost doubt if the wisest man has learned any thing of absolute value by living.',
   'example3':
