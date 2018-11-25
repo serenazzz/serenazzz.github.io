@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Tom younger brother (or rather half-brother) Sid was already through with his part of the work (picking up chips).',
   'example2':
-      'One may almost doubt if the wisest man has learned any thing of absolute value by living.',
+      'All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.',
   'example3':
-      'All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.'      
+      'One may almost doubt if the wisest man has learned any thing of absolute value by living.'      
 };
 
 function status(statusText) {
