@@ -8,11 +8,15 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Tom's younger brother (or rather half-brother) Sid was already through
+with his part of the work (picking up chips), for he was a quiet boy,
+and had no adventurous, trouble-some ways.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'One may almost doubt if the wisest man has learned any thing of
+absolute value by living.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'All these things, and a thousand like them, came to pass in and close
+upon the dear old year one thousand seven hundred and seventy-five.'      
 };
 
 function status(statusText) {
